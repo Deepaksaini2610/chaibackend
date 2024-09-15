@@ -1,0 +1,16 @@
+{
+  "name": "advancejsproject",
+  "version": "1.0.0",
+  "description": "diwali product seller channel - youtube",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "backend",
+    "deepak"
+  ],
+  "author": "deepak saini",
+  "license": "ISC"
+}
